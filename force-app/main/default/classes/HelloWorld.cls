@@ -8,6 +8,6 @@ public with sharing class HelloWorld {
     }
 
     public static void greet(String name){
-        System.debug('Hello, ' + name);
+        System.debug('Hello, ' + name + ', how are you ? ');
     }
 }
